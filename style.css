@@ -1,0 +1,46 @@
+body{
+    background: url(https://mir-s3-cdn-cf.behance.net/project_modules/1400/a7748e80376805.5cdf0f0c23e7a.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: white;
+    background: rgba(0, 0, 0, 0.5);
+    width: 600px;
+    text-align: center;
+    margin: auto;
+}
+.name{
+    display: flex;
+    justify-content: space-around;
+    background: rgba(0, 0, 0, 0.5);
+    width: 1200px;
+    margin: auto;
+    margin-top: 30px;
+}
+h3{
+    color:white;
+    font: size 80px;;
+}
+.t{
+    display: flex;
+    justify-content: space-evenly;
+    background: rgba(0, 0, 0, 0);
+    margin-top: 20px;
+
+}
+img{
+        height: 150px;
+        width: 150px;
+        border-radius: 50px 0 50px 0;
+        padding: 10px;
+}
+h2{
+    color: white;
+    text-align: center;
+    background: black;
+    opacity: 0.3;
+}
+h2:hover{
+    opacity: 1;
+}
